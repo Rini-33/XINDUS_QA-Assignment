@@ -1,4 +1,4 @@
-## XINDUS_QA-Assignment
+## XINDUS_QA Assignment
 ### Testing of an Online Bookstore Application
 
 Hi!!
